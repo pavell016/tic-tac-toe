@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\programacion\\Documents\\GitHub\\tic-tac-toe\\tic-tac-toe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E012416-13F0-4EB5-B5C5-FA6B052E85B2}|tic-tac-toe\\tic-tac-toe.csproj|c:\\users\\programacion\\documents\\github\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E012416-13F0-4EB5-B5C5-FA6B052E85B2}|tic-tac-toe\\tic-tac-toe.csproj|solutionrelative:tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E012416-13F0-4EB5-B5C5-FA6B052E85B2}|tic-tac-toe\\tic-tac-toe.csproj|c:\\users\\programacion\\documents\\github\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E012416-13F0-4EB5-B5C5-FA6B052E85B2}|tic-tac-toe\\tic-tac-toe.csproj|solutionrelative:tic-tac-toe\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E012416-13F0-4EB5-B5C5-FA6B052E85B2}|tic-tac-toe\\tic-tac-toe.csproj|c:\\users\\programacion\\documents\\github\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E012416-13F0-4EB5-B5C5-FA6B052E85B2}|tic-tac-toe\\tic-tac-toe.csproj|solutionrelative:tic-tac-toe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E012416-13F0-4EB5-B5C5-FA6B052E85B2}|tic-tac-toe\\tic-tac-toe.csproj|c:\\users\\programacion\\documents\\github\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E012416-13F0-4EB5-B5C5-FA6B052E85B2}|tic-tac-toe\\tic-tac-toe.csproj|solutionrelative:tic-tac-toe\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E012416-13F0-4EB5-B5C5-FA6B052E85B2}|tic-tac-toe\\tic-tac-toe.csproj|c:\\users\\programacion\\documents\\github\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3E012416-13F0-4EB5-B5C5-FA6B052E85B2}|tic-tac-toe\\tic-tac-toe.csproj|solutionrelative:tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E012416-13F0-4EB5-B5C5-FA6B052E85B2}|tic-tac-toe\\tic-tac-toe.csproj|c:\\users\\programacion\\documents\\github\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E012416-13F0-4EB5-B5C5-FA6B052E85B2}|tic-tac-toe\\tic-tac-toe.csproj|solutionrelative:tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +30,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\programacion\\Documents\\GitHub\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\Server.cs",
+              "RelativeDocumentMoniker": "tic-tac-toe\\Server.cs",
+              "ToolTip": "C:\\Users\\programacion\\Documents\\GitHub\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\Server.cs",
+              "RelativeToolTip": "tic-tac-toe\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:04:31.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\programacion\\Documents\\GitHub\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\Form2.cs",
+              "RelativeDocumentMoniker": "tic-tac-toe\\Form2.cs",
+              "ToolTip": "C:\\Users\\programacion\\Documents\\GitHub\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\Form2.cs",
+              "RelativeToolTip": "tic-tac-toe\\Form2.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:37:56.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\programacion\\Documents\\GitHub\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\Form2.cs",
+              "RelativeDocumentMoniker": "tic-tac-toe\\Form2.cs",
+              "ToolTip": "C:\\Users\\programacion\\Documents\\GitHub\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "tic-tac-toe\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:37:47.105Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\programacion\\Documents\\GitHub\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\Form1.cs",
               "RelativeDocumentMoniker": "tic-tac-toe\\Form1.cs",
@@ -34,13 +84,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\programacion\\Documents\\GitHub\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\Form1.cs",
               "RelativeDocumentMoniker": "tic-tac-toe\\Form1.cs",
               "ToolTip": "C:\\Users\\programacion\\Documents\\GitHub\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\Form1.cs",
               "RelativeToolTip": "tic-tac-toe\\Form1.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T08:23:32.998Z",
               "EditorCaption": ""
