@@ -82,7 +82,8 @@
             Controls.Add(IP_server);
             Controls.Add(label1);
             Name = "Form1";
-            Text = "Form1";
+            Text = "TIC-TAC-TOE";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }

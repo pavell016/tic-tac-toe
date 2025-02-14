@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{3E012416-13F0-4EB5-B5C5-FA6B052E85B2}|tic-tac-toe\\tic-tac-toe.csproj|solutionrelative:tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E012416-13F0-4EB5-B5C5-FA6B052E85B2}|tic-tac-toe\\tic-tac-toe.csproj|c:\\users\\programacion\\documents\\github\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E012416-13F0-4EB5-B5C5-FA6B052E85B2}|tic-tac-toe\\tic-tac-toe.csproj|solutionrelative:tic-tac-toe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E012416-13F0-4EB5-B5C5-FA6B052E85B2}|tic-tac-toe\\tic-tac-toe.csproj|c:\\users\\programacion\\documents\\github\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E012416-13F0-4EB5-B5C5-FA6B052E85B2}|tic-tac-toe\\tic-tac-toe.csproj|solutionrelative:tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\programacion\\Documents\\GitHub\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\Program.cs",
-              "RelativeDocumentMoniker": "tic-tac-toe\\Program.cs",
-              "ToolTip": "C:\\Users\\programacion\\Documents\\GitHub\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\Program.cs",
-              "RelativeToolTip": "tic-tac-toe\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\programacion\\Documents\\GitHub\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\Form1.cs",
+              "RelativeDocumentMoniker": "tic-tac-toe\\Form1.cs",
+              "ToolTip": "C:\\Users\\programacion\\Documents\\GitHub\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "tic-tac-toe\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T08:50:26.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T09:26:20.184Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -45,7 +40,7 @@
               "RelativeDocumentMoniker": "tic-tac-toe\\Form1.cs",
               "ToolTip": "C:\\Users\\programacion\\Documents\\GitHub\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe\\Form1.cs",
               "RelativeToolTip": "tic-tac-toe\\Form1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T08:23:32.998Z",
               "EditorCaption": ""
