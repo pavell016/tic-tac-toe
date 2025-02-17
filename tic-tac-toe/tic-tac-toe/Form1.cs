@@ -17,7 +17,9 @@ namespace tic_tac_toe
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            Form2 cliente = new Form2(IP_server.Text);
+            cliente.Show();
+            this.Close();
         }
         private void textBox1_TextChanged(object sender, EventArgs e)
         {

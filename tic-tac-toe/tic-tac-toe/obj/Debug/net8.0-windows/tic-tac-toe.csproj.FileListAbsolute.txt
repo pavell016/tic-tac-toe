@@ -15,3 +15,4 @@ C:\Users\programacion\Documents\GitHub\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\D
 C:\Users\programacion\Documents\GitHub\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\Debug\net8.0-windows\tic-tac-toe.genruntimeconfig.cache
 C:\Users\programacion\Documents\GitHub\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\Debug\net8.0-windows\ref\tic-tac-toe.dll
 C:\Users\programacion\Documents\GitHub\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\Debug\net8.0-windows\tic-tac-toe.sourcelink.json
+C:\Users\programacion\Documents\GitHub\tic-tac-toe\tic-tac-toe\tic-tac-toe\obj\Debug\net8.0-windows\tic_tac_toe.Form2.resources
